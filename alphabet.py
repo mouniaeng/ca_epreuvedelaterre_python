@@ -1,2 +1,2 @@
 for x in "abcdefghijklmnopqrstuvwxyz":
-    print(x)
+    print(x, end="")
